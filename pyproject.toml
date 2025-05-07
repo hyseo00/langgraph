@@ -18,5 +18,6 @@ dependencies = [
     "py-zerox>=0.0.7",
     "pymupdf>=1.25.5",
     "pypdf>=4.3.1",
+    "pyppeteer>=2.0.0",
     "python-dotenv>=1.1.0",
 ]
