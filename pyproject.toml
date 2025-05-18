@@ -1,5 +1,5 @@
 [project]
-name = "learn-langgraph"
+name = "langgraph"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -21,4 +21,5 @@ dependencies = [
     "pypdf>=4.3.1",
     "pyppeteer>=2.0.0",
     "python-dotenv>=1.1.0",
+    "yfinance>=0.2.58",
 ]
